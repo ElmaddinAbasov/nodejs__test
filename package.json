@@ -1,0 +1,27 @@
+{
+  "name": "nodejs__test",
+  "version": "1.0.0",
+  "description": "user registration and autentification process project",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElmaddinAbasov/nodejs__test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "postgres"
+  ],
+  "author": "Abasov Elmaddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElmaddinAbasov/nodejs__test/issues"
+  },
+  "homepage": "https://github.com/ElmaddinAbasov/nodejs__test#readme",
+  "dependencies": {
+    "postgres": "^3.4.7"
+  }
+}
